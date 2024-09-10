@@ -1,0 +1,1 @@
+The odin-recipes project is a personal project following the beginner html course I have completed on the odin project . The main purpose of the odin-recipes project is to showcase the new skills i have learned with html and it is for me to get a better understanding of html so I am using this project to test my skills.
